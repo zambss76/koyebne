@@ -20,7 +20,8 @@
 
 ## koyebne/app/xy/config.json-可选择手搓其他xray配置
 默认节点样板
-vless://%E5%A1%AB%E5%85%A5UUID@填入优选ip/域名:443?encryption=mlkem768x25519plus.native.0rtt.fRLKjkBNx1N6ceiqcqilb46WNj4yvl4SgXklAFkvNhE&flow=xtls-rprx-vision&security=tls&sni=%E5%A1%AB%E5%85%A5%E5%9B%BA%E5%AE%9A%E9%9A%A7%E9%81%93%E5%9F%9F%E5%90%8D&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fb3a053a4#US%2FDE%20ENC-Vision-WS%EF%BC%88Koyeb%EF%BC%89
+vless://%E5%A1%AB%E5%85%A5UUID@填入优选ip/域名:443?encryption=mlkem768x25519plus.native.0rtt.fRLKjkBNx1N6ceiqcqilb46WNj4yvl4SgXklAFkvNhE&flow=xtls-rprx-vision&security=tls&sni=%E5%A1%AB%E5%85%A5%E5%9B%BA%E5%AE%9A%E9%9A%A7%E9%81%93%E5%9F%9F%E5%90%8D&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%E5%A1%AB%E5%85%A5%E8%87%AA%E5%AE%9A%E4%B9%89path#US%2FDE%20ENC-Vision-WS%EF%BC%88Koyeb%EF%BC%89
+
 
 在部署到 Koyeb 之前，您需要设置核心的代理配置参数**uuid**、**path**，也可手搓更改xray配置文件。
 
